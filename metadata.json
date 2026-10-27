@@ -1,0 +1,6 @@
+{
+  "name": "DroidForge 17 - Android Dream Dev Phone Studio",
+  "description": "Visual CAD mockup and blueprint architect for your custom Android 17 developer phone, with hardware and software manifests, cloud build recipes, and exportable packages for low-power devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
